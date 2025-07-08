@@ -2,7 +2,7 @@
 
 This repository provides the official implementation of our paper:
 
-> **DA-CFBC: Direction-Aware and Center-Focused Boundary-Constrained Framework for CBCT**  
+> **DA-CFBC: Direction-Aware and Center-Focused Boundary-Constrained Framework for CBCT tooth instance segmentation**  
 > _Bin Wang, et al._  
 
 
