@@ -10,7 +10,7 @@ We propose a novel 3D deep learning framework for **tooth instance segmentation*
 
 ---
 
-## 📌 Features
+## 📌 Hightlights
 
 - ✅ Direction-aware modules to capture anatomical orientation
 - ✅ Center-focused Boundary-Constrainted to separate adjacent teeth
