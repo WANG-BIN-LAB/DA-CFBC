@@ -21,14 +21,17 @@ We propose a novel 3D deep learning framework for **tooth instance segmentation*
 
 ## 🚀 Training
 
-python train_identification.py 
-python train_segmentation.py 
+- python train_identification.py 
+- python train_segmentation.py 
 
 ## 🚀 Inference & Evaluation
-python lets_seg.py
+- python lets_seg.py
 
 #  📊 Results
-Method	DSC ↑ Iou↑	HD ↓	ASD ↓
-DA-CFBC (Ours)	0.977	0.954 1.013	0.233
+
+| Method         | DSC ↑ | IoU ↑ | HD ↓ | ASD ↓ |
+|----------------|-------|-------|------|--------|
+| DA-CFBC (Ours) | 0.977 | 0.954 | 1.013 | 0.233   |
+
 
 For more detailed results and ablation studies, please refer to the paper.
